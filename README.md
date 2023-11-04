@@ -15,6 +15,9 @@
   </p>
 </div>
 
+<div align="center">
+  <img src="LOGO.PNG" alt="Alt text">
+</div>
 
 
 <!-- ABOUT THE PROJECT -->
